@@ -1,0 +1,1671 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "HBCラジオ",
+        "company": "北海道放送",
+        "AM/FM": "AM",
+        "callsign": "JOHR",
+        "Radio Network": "JRN/NRN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.34962558746335,
+          43.06261331747339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "STVラジオ",
+        "company": "札幌テレビ放送",
+        "AM/FM": "AM",
+        "callsign": "JOWF",
+        "Radio Network": "NRN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.344695687294,
+          43.06192743848626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "AIR-G'",
+        "company": "エフエム北海道",
+        "AM/FM": "FM",
+        "callsign": "JOFU-FM",
+        "Radio Network": "JFN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.3536274433136,
+          43.06255060885613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "FM NORTH WAVE",
+        "company": "エフエム・ノースウエーブ",
+        "AM/FM": "FM",
+        "callsign": "JOPV-FM",
+        "Radio Network": "JFL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.34888529777527,
+          43.06922087852664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "RABラジオ",
+        "company": "青森放送",
+        "AM/FM": "AM",
+        "callsign": "JOGR",
+        "Radio Network": "JRN/NRN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.77120184898376,
+          40.818518655280236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "FM青森",
+        "company": "エフエム青森",
+        "AM/FM": "FM",
+        "callsign": "JOWU-FM",
+        "Radio Network": "JFN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.75841307640076,
+          40.82473377211728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "YBCラジオ",
+        "company": "山形放送",
+        "AM/FM": "AM",
+        "callsign": "JOEF",
+        "Radio Network": "JRN/NRN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.33885657787323,
+          38.2562746497253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "Rhythm Station",
+        "company": "エフエム山形",
+        "AM/FM": "FM",
+        "callsign": "JOEV-FM",
+        "Radio Network": "JFN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.3531312942505,
+          38.23540761464552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "TBCラジオ",
+        "company": "東北放送",
+        "AM/FM": "AM",
+        "callsign": "JOIR",
+        "Radio Network": "JRN/NRN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.85590600967407,
+          38.246324268933435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "Date fm",
+        "company": "エフエム仙台",
+        "AM/FM": "FM",
+        "callsign": "JOJU-FM",
+        "Radio Network": "JFN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.87684869766235,
+          38.264387287999234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "RFCラジオ福島",
+        "company": "ラジオ福島",
+        "AM/FM": "AM",
+        "callsign": "JOWR",
+        "Radio Network": "JRN/NRN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.49118995666504,
+          37.77406458000443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "ふくしまFM",
+        "company": "エフエム福島",
+        "AM/FM": "FM",
+        "callsign": "JOTV-FM",
+        "Radio Network": "JFN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.37486791610718,
+          37.40060353037147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "IBCラジオ",
+        "company": "岩手放送",
+        "AM/FM": "AM",
+        "callsign": "JODF",
+        "Radio Network": "JRN/NRN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.16171002388,
+          39.69854428021895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "FM岩手",
+        "company": "エフエム岩手",
+        "AM/FM": "FM",
+        "callsign": "JOQU-FM",
+        "Radio Network": "JFN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.15402817726135,
+          39.701280737187844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "ABSラジオ",
+        "company": "秋田放送",
+        "AM/FM": "AM",
+        "callsign": "JOTR",
+        "Radio Network": "JRN/NRN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.1287591457367,
+          39.71568765212385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "AFM",
+        "company": "エフエム秋田",
+        "AM/FM": "FM",
+        "callsign": "JOPU-FM",
+        "Radio Network": "JFN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.10116457939148,
+          39.72468683601588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "TBSラジオ",
+        "company": "TBSラジオ",
+        "AM/FM": "AM",
+        "callsign": "JOKR",
+        "Radio Network": "JRN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7348177433014,
+          35.67176577921481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "文化放送",
+        "company": "文化放送",
+        "AM/FM": "AM",
+        "callsign": "JOQR",
+        "Radio Network": "NRN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7571712732315,
+          35.65689960655557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "ニッポン放送",
+        "company": "ニッポン放送",
+        "AM/FM": "AM",
+        "callsign": "JOLF",
+        "Radio Network": "NRN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7606635093689,
+          35.67516922464632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "TOKYO FM",
+        "company": "えふえむ東京",
+        "AM/FM": "FM",
+        "callsign": "JOAU-FM",
+        "Radio Network": "JFN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.74358320236206,
+          35.68340051757711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "J-WAVE",
+        "company": "J-WAVE",
+        "AM/FM": "FM",
+        "callsign": "JOAV-FM",
+        "Radio Network": "JFL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.72921192646027,
+          35.66038213917006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "InterFM897",
+        "company": "InterFM897",
+        "AM/FM": "FM",
+        "callsign": "JODW-FM",
+        "Radio Network": "所属なし"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.74639415740967,
+          35.62094960486742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "FM GUNMA",
+        "company": "エフエム群馬",
+        "AM/FM": "FM",
+        "callsign": "JORU-FM",
+        "Radio Network": "JFN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.0720009803772,
+          36.39771884500446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "bayfm78",
+        "company": "ベイエフエム",
+        "AM/FM": "FM",
+        "callsign": "JOGV-FM",
+        "Radio Network": "所属なし"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0383096933365,
+          35.648033500225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "SBCラジオ",
+        "company": "信越放送",
+        "AM/FM": "AM",
+        "callsign": "JOSR",
+        "Radio Network": "JRN/NRN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.18784832954407,
+          36.64980694589977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "callsign": "JOZU-FM",
+        "station": "FM長野",
+        "company": "長野エフエム放送",
+        "AM/FM": "FM",
+        "Radio Network": "JFN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.96923756599426,
+          36.22700885093413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "CRTラジオ",
+        "company": "栃木放送",
+        "AM/FM": "AM",
+        "callsign": "JOXF",
+        "Radio Network": "NRN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.88195836544037,
+          36.56718008732326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "RADIO BERRY",
+        "company": "エフエム栃木",
+        "AM/FM": "FM",
+        "callsign": "JOSV-FM",
+        "Radio Network": "JFN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.88321900367737,
+          36.55916589896065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "LuckyFM",
+        "company": "茨城放送",
+        "AM/FM": "AM",
+        "callsign": "JOYF",
+        "Radio Network": "NRN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.44253468513486,
+          36.34957216157996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "NACK5",
+        "company": "エフエムナックファイブ",
+        "AM/FM": "FM",
+        "callsign": "JODV-FM",
+        "Radio Network": "所属なし"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.62152123451233,
+          35.9080311449963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "ラジオ日本",
+        "company": "アール・エフ・ラジオ日本",
+        "AM/FM": "AM",
+        "callsign": "JORF",
+        "Radio Network": "所属なし"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6321427822113,
+          35.442338258530896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "Fm yokohama 84.7",
+        "company": "横浜エフエム放送",
+        "AM/FM": "FM",
+        "callsign": "JOTU-FM",
+        "Radio Network": "所属なし"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.63119328022003,
+          35.455011388190314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "BSNラジオ",
+        "company": "新潟放送",
+        "AM/FM": "AM",
+        "callsign": "JODR",
+        "Radio Network": "JRN/NRN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.02825951576233,
+          37.90890721468254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "FM新潟",
+        "company": "エフエムラジオ新潟",
+        "AM/FM": "FM",
+        "callsign": "JOXU-FM",
+        "Radio Network": "JFN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.04893398284912,
+          37.9119333646043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "YBSラジオ",
+        "company": "山梨放送",
+        "AM/FM": "AM",
+        "callsign": "JOJF",
+        "Radio Network": "JRN/NRN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.57093751430511,
+          35.66832732398015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "FM FUJI",
+        "company": "エフエム富士",
+        "AM/FM": "FM",
+        "callsign": "JOCV-FM",
+        "Radio Network": "所属なし"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.625670671463,
+          35.65008665370353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "K-mix",
+        "company": "静岡エフエム放送",
+        "AM/FM": "FM",
+        "callsign": "JOKU-FM",
+        "Radio Network": "JFN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.73127734661102,
+          34.71067062519454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "SBSラジオ",
+        "company": "静岡放送",
+        "AM/FM": "AM",
+        "callsign": "JOVR",
+        "Radio Network": "JRN/NRN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.40457618236542,
+          34.95991217489992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "KNBラジオ",
+        "company": "北日本放送",
+        "AM/FM": "AM",
+        "callsign": "JOLR",
+        "Radio Network": "JRN/NRN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.21420109272003,
+          36.70479071372163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "FMとやま",
+        "callsign": "JOOU-FM",
+        "company": "富山エフエム放送",
+        "AM/FM": "FM",
+        "Radio Network": "JFN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.22053647041318,
+          36.7124543422991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "MROラジオ",
+        "company": "北陸放送",
+        "AM/FM": "AM",
+        "callsign": "JOMR",
+        "Radio Network": "JRN/NRN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.65979385375977,
+          36.55817053043294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "HELLO FIVE",
+        "company": "エフエム石川",
+        "AM/FM": "FM",
+        "callsign": "JOHV-FM",
+        "Radio Network": "JFN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.6565644741058,
+          36.57305663037417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "FBCラジオ",
+        "company": "福井放送",
+        "AM/FM": "AM",
+        "callsign": "JOPR",
+        "Radio Network": "JRN/NRN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.24877750873566,
+          36.09746123916451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "FM福井",
+        "company": "福井エフエム放送",
+        "AM/FM": "FM",
+        "callsign": "JOLU-FM",
+        "Radio Network": "JFN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.2263971567154,
+          36.05729150674966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "CBCラジオ",
+        "company": "中部日本放送",
+        "AM/FM": "AM",
+        "callsign": "JOAR",
+        "Radio Network": "JRN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.91633641719818,
+          35.168537473413444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "東海ラジオ",
+        "company": "東海ラジオ放送",
+        "AM/FM": "AM",
+        "callsign": "JOSF",
+        "Radio Network": "NRN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.91356301307678,
+          35.170852828256905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "FM AICHI",
+        "company": "エフエム愛知",
+        "AM/FM": "FM",
+        "callsign": "JOCU-FM",
+        "Radio Network": "JFN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.9152474403381,
+          35.156402708199195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "ZIP-FM",
+        "company": "株式会社ZIP-FM",
+        "AM/FM": "FM",
+        "callsign": "JOQV-FM",
+        "Radio Network": "JFL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.9058758020401,
+          35.17404071842313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "FM GIFU",
+        "company": "エフエム岐阜",
+        "AM/FM": "FM",
+        "callsign": "JOXV-FM",
+        "Radio Network": "JFN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.64125978946686,
+          35.367644294846514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "ぎふチャン",
+        "AM/FM": "AM",
+        "callsign": "JOZF",
+        "Radio Network": "所属なし",
+        "company": "岐阜放送"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.75434708595276,
+          35.410694797822046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "レディオキューブ FM三重",
+        "company": "三重エフエム放送",
+        "AM/FM": "FM",
+        "callsign": "JONU-FM",
+        "Radio Network": "JFN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.49939239025116,
+          34.73595229785912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "MBSラジオ",
+        "company": "毎日放送",
+        "AM/FM": "AM",
+        "callsign": "JOOR",
+        "Radio Network": "JRN/NRN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.4998403787613,
+          34.70842161931574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "ABCラジオ",
+        "company": "朝日放送",
+        "AM/FM": "AM",
+        "callsign": "JONR",
+        "Radio Network": "JRN/NRN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.48838198184967,
+          34.693885393090426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "OBCラジオ大阪",
+        "company": "大阪放送",
+        "AM/FM": "AM",
+        "callsign": "JOUF",
+        "Radio Network": "NRN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.460165143013,
+          34.67002474805386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "FM大阪",
+        "company": "エフエム大阪",
+        "AM/FM": "FM",
+        "callsign": "JOBU-FM",
+        "Radio Network": "JFN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.49620866775513,
+          34.66672456512139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "FM802",
+        "company": "FM802",
+        "AM/FM": "FM",
+        "callsign": "JOFV-FM",
+        "Radio Network": "JFL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.51130950450897,
+          34.69778872646623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "FM COCOLO",
+        "company": "FM802",
+        "AM/FM": "FM",
+        "callsign": "JOAW-FM",
+        "Radio Network": "所属なし"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.51150262355802,
+          34.6977975473501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "e-radio",
+        "company": "エフエム滋賀",
+        "AM/FM": "FM",
+        "callsign": "JOUV-FM",
+        "Radio Network": "JFN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.88826715946198,
+          35.00203229060683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "KBSラジオ",
+        "company": "京都放送",
+        "AM/FM": "AM",
+        "callsign": "JOBR",
+        "Radio Network": "NRN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.75866281986237,
+          35.023499362961495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "α-STATION",
+        "company": "エフエム京都",
+        "AM/FM": "FM",
+        "callsign": "JOKV-FM",
+        "Radio Network": "所属なし"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.75915098190308,
+          35.003122036233606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "Kiss FM KOBE",
+        "company": "兵庫エフエム放送",
+        "AM/FM": "FM",
+        "callsign": "JOIV-FM",
+        "Radio Network": "JFN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.18885970115662,
+          34.679677469569484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "ラジオ関西",
+        "company": "ラジオ関西",
+        "AM/FM": "AM",
+        "callsign": "JOCR",
+        "Radio Network": "所属なし"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.18214344978333,
+          34.67823492684215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "WBSラジオ",
+        "company": "和歌山放送",
+        "AM/FM": "AM",
+        "callsign": "JOVF",
+        "Radio Network": "JRN/NRN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.16310513019562,
+          34.232782698937086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "BSSラジオ",
+        "company": "山陰放送",
+        "AM/FM": "AM",
+        "callsign": "JOHF",
+        "Radio Network": "JRN/NRN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.3388650417328,
+          35.43775359014811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "V-air",
+        "company": "エフエム山陰",
+        "AM/FM": "FM",
+        "callsign": "JOVU-FM",
+        "Radio Network": "JFN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.06715190410614,
+          35.469290302494336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "RSKラジオ",
+        "company": "山陽放送",
+        "AM/FM": "AM",
+        "callsign": "JOYR",
+        "Radio Network": "JRN/NRN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.93011510372162,
+          34.667033411346004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "FM OKAYAMA",
+        "company": "岡山エフエム放送",
+        "AM/FM": "FM",
+        "callsign": "JOVV-FM",
+        "Radio Network": "JFN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.9267462491989,
+          34.66272710867357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "RNCラジオ",
+        "company": "西日本放送",
+        "AM/FM": "AM",
+        "callsign": "JOKF",
+        "Radio Network": "JRN/NRN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.05098617076874,
+          34.347634886265055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "FM香川",
+        "company": "エフエム香川",
+        "AM/FM": "FM",
+        "callsign": "JOYU-FM",
+        "Radio Network": "JFN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.04701113700867,
+          34.32159705484827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "四国放送",
+        "company": "四国放送",
+        "AM/FM": "AM",
+        "callsign": "JOJR",
+        "Radio Network": "JRN/NRN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.55876052379608,
+          34.0736928437386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "FM徳島",
+        "company": "エフエム徳島",
+        "AM/FM": "FM",
+        "callsign": "JOMV-FM",
+        "Radio Network": "JFN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.54991459846497,
+          34.07497254542707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "南海放送",
+        "company": "南海放送",
+        "AM/FM": "AM",
+        "callsign": "JOAF",
+        "Radio Network": "JRN/NRN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.75822579860687,
+          33.84085317824891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "FM愛媛",
+        "company": "エフエム愛媛",
+        "AM/FM": "FM",
+        "callsign": "JOEU-FM",
+        "Radio Network": "JFN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.75508224964142,
+          33.834686378881194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "高知放送",
+        "company": "高知放送",
+        "AM/FM": "AM",
+        "callsign": "JOZR",
+        "Radio Network": "JRN/NRN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.53441417217255,
+          33.55886177188594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "Hi-Six",
+        "company": "エフエム高知",
+        "AM/FM": "FM",
+        "callsign": "JOLV-FM",
+        "Radio Network": "JFN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.53158175945282,
+          33.556139335749734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "RCCラジオ",
+        "company": "中国放送",
+        "AM/FM": "AM",
+        "callsign": "JOER",
+        "Radio Network": "JRN/NRN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.46163249015808,
+          34.40202775940137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "HFM",
+        "company": "広島エフエム放送",
+        "AM/FM": "FM",
+        "callsign": "JOGU-FM",
+        "Radio Network": "JFN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.46734023094177,
+          34.380456368023324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "KRYラジオ",
+        "company": "山口放送",
+        "AM/FM": "AM",
+        "callsign": "JOPF",
+        "Radio Network": "JRN/NRN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.8140345811844,
+          34.06247240919047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "FM山口",
+        "company": "エフエム山口",
+        "AM/FM": "FM",
+        "callsign": "JOUU-FM",
+        "Radio Network": "JFN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.46542251110077,
+          34.17121460817832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "RKBラジオ",
+        "company": "RKB毎日放送",
+        "AM/FM": "AM",
+        "callsign": "JOFR",
+        "Radio Network": "JRN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.35093247890472,
+          33.5926816650954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "KBCラジオ",
+        "company": "九州朝日放送",
+        "AM/FM": "AM",
+        "callsign": "JOIF",
+        "Radio Network": "NRN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.39563953876495,
+          33.595885532185456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "FM FUKUOKA",
+        "company": "エフエム福岡",
+        "AM/FM": "FM",
+        "callsign": "JODU-FM",
+        "Radio Network": "JFN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.40718913078308,
+          33.581616907827325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "CROSS FM",
+        "company": "CROSS FM",
+        "AM/FM": "FM",
+        "callsign": "JORV-FM",
+        "Radio Network": "JFL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.8825248479843,
+          33.88505039366152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "FM佐賀",
+        "company": "エフエム佐賀",
+        "AM/FM": "FM",
+        "callsign": "JONV-FM",
+        "Radio Network": "JFN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.30250251293182,
+          33.23867406726559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "LOVE FM",
+        "company": "ラブエフエム国際放送",
+        "AM/FM": "FM",
+        "callsign": "JOFW-FM",
+        "Radio Network": "所属なし"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.40106296539307,
+          33.587551655205466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "NBCラジオ",
+        "company": "長崎放送",
+        "AM/FM": "AM",
+        "callsign": "JOUR",
+        "Radio Network": "JRN/NRN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.87659990787506,
+          32.7510534951089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "FM Nagasaki",
+        "company": "エフエム長崎",
+        "AM/FM": "FM",
+        "callsign": "JOHU-FM",
+        "Radio Network": "JFN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.87878322601318,
+          32.74697488687372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "RKKラジオ",
+        "company": "熊本放送",
+        "AM/FM": "AM",
+        "callsign": "JOBF",
+        "Radio Network": "JRN/NRN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.70266127586365,
+          32.79670401039363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "エフエム・クマモト",
+        "company": "エフエム熊本",
+        "AM/FM": "FM",
+        "callsign": "JOSU-FM",
+        "Radio Network": "JFN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.70929169654846,
+          32.80721911765548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "OBSラジオ",
+        "company": "大分放送",
+        "AM/FM": "AM",
+        "callsign": "JOGF",
+        "Radio Network": "JRN/NRN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.6269451379776,
+          33.241527606326976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "Air-Radio FM88 FM OITA",
+        "company": "エフエム大分",
+        "AM/FM": "FM",
+        "callsign": "JOJV-FM",
+        "Radio Network": "JFN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.6101437807083,
+          33.238252309881396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "MRTラジオ",
+        "company": "宮崎放送",
+        "AM/FM": "AM",
+        "callsign": "JONF",
+        "Radio Network": "JRN/NRN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.42189025878906,
+          31.917212527581803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "JOY FM",
+        "company": "エフエム宮崎",
+        "AM/FM": "FM",
+        "callsign": "JOMU-FM",
+        "Radio Network": "JFN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.41132771968842,
+          31.930803384196878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "MBCラジオ",
+        "company": "南日本放送",
+        "AM/FM": "AM",
+        "callsign": "JOCF",
+        "Radio Network": "JRN/NRN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.55209815502167,
+          31.5824747453189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "μFM",
+        "company": "エフエム鹿児島",
+        "AM/FM": "FM",
+        "callsign": "JOOV-FM",
+        "Radio Network": "JFN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.55266678333282,
+          31.589959906301686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "RBCiラジオ",
+        "company": "琉球放送",
+        "AM/FM": "AM",
+        "callsign": "JORR",
+        "Radio Network": "JRN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.67904460430145,
+          26.21577493352738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "ラジオ沖縄",
+        "company": "ラジオ沖縄",
+        "AM/FM": "AM",
+        "callsign": "JOXR",
+        "Radio Network": "NRN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.67182409763336,
+          26.21375361695395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "FM Okinawa",
+        "company": "エフエム沖縄",
+        "AM/FM": "FM",
+        "callsign": "JOIU-FM",
+        "Radio Network": "JFN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.6916241645813,
+          26.247947638550087
+        ]
+      }
+    }
+  ]
+}
